@@ -81,6 +81,8 @@ npm run dev
 - Runs on http://localhost:5173
 - Make sure backend is running at http://localhost:3000
 
+---
+
 ## 🤝 Contributing
 
 Pull requests and suggestions are welcome!  
