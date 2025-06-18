@@ -67,9 +67,8 @@ npm run start:dev
 
 ```
 
-Create a .env file with MySQL connection
-
-MySQL (phpMyAdmin) should be running with proper credentials
+- Create a .env file with MySQL connection
+- MySQL (phpMyAdmin) should be running with proper credentials
 
 ### 📦 Frontend  (React)
 
@@ -79,9 +78,8 @@ npm install
 npm run dev
 
 ```
-Runs on http://localhost:5173
-
-Make sure backend is running at http://localhost:3000
+- Runs on http://localhost:5173
+- Make sure backend is running at http://localhost:3000
 
 ## 🤝 Contributing
 
